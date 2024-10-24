@@ -6,6 +6,4 @@ itog = sum(new1) + sum(new2)
 sr = itog/len(numbers)
 numbers[4]=sr
 
-# TODO заменить значение пропущенного элемента средним арифметическим
-
 print("Измененный список:", numbers)
